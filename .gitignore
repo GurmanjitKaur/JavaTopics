@@ -7,3 +7,4 @@
 *.war
 *.ear
 *.nar
+*.DS_Store
